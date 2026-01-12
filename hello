@@ -1,7 +1,7 @@
 public class hello{
   public static void main (String args[]){
 
-   System.out.println ("Craving for fish curry....");
+   System.out.println ("Craving for fish curry.... Waiting to go home...");
 
 
 }
